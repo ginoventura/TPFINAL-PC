@@ -1,4 +1,4 @@
-# Calculo de numeros primos con OpenMP y MPI
+# Calculo de números primos con OpenMP y MPI / Prime numbers with OpenMP and MPI
 
 # Obetivo
 El objetivo de este trabajo final es realizar un software para obtener números primos utilizando técnicas de programación paralela. Se deberá implementar el software utilizando la Interfaz de paso de mensajes – MPI y la interfaz de hilos paralelos OpenMP. Además, se debe realizar una serie de mediciones de tiempo de ejecución para comparar el programa secuencial, el comportamiento del programa paralelizado con múltiples hilos y con múltiples procesos. 
